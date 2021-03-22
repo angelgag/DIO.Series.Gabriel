@@ -1,0 +1,16 @@
+C:\Users\gabri\OneDrive\Documentos\DIO\DIO.Series.Gabriel\bin\Debug\net5.0\DIO.Series.Gabriel.exe
+C:\Users\gabri\OneDrive\Documentos\DIO\DIO.Series.Gabriel\bin\Debug\net5.0\DIO.Series.Gabriel.deps.json
+C:\Users\gabri\OneDrive\Documentos\DIO\DIO.Series.Gabriel\bin\Debug\net5.0\DIO.Series.Gabriel.runtimeconfig.json
+C:\Users\gabri\OneDrive\Documentos\DIO\DIO.Series.Gabriel\bin\Debug\net5.0\DIO.Series.Gabriel.runtimeconfig.dev.json
+C:\Users\gabri\OneDrive\Documentos\DIO\DIO.Series.Gabriel\bin\Debug\net5.0\DIO.Series.Gabriel.dll
+C:\Users\gabri\OneDrive\Documentos\DIO\DIO.Series.Gabriel\bin\Debug\net5.0\ref\DIO.Series.Gabriel.dll
+C:\Users\gabri\OneDrive\Documentos\DIO\DIO.Series.Gabriel\bin\Debug\net5.0\DIO.Series.Gabriel.pdb
+C:\Users\gabri\OneDrive\Documentos\DIO\DIO.Series.Gabriel\obj\Debug\net5.0\DIO.Series.Gabriel.csprojAssemblyReference.cache
+C:\Users\gabri\OneDrive\Documentos\DIO\DIO.Series.Gabriel\obj\Debug\net5.0\DIO.Series.Gabriel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\OneDrive\Documentos\DIO\DIO.Series.Gabriel\obj\Debug\net5.0\DIO.Series.Gabriel.AssemblyInfoInputs.cache
+C:\Users\gabri\OneDrive\Documentos\DIO\DIO.Series.Gabriel\obj\Debug\net5.0\DIO.Series.Gabriel.AssemblyInfo.cs
+C:\Users\gabri\OneDrive\Documentos\DIO\DIO.Series.Gabriel\obj\Debug\net5.0\DIO.Series.Gabriel.csproj.CoreCompileInputs.cache
+C:\Users\gabri\OneDrive\Documentos\DIO\DIO.Series.Gabriel\obj\Debug\net5.0\DIO.Series.Gabriel.dll
+C:\Users\gabri\OneDrive\Documentos\DIO\DIO.Series.Gabriel\obj\Debug\net5.0\ref\DIO.Series.Gabriel.dll
+C:\Users\gabri\OneDrive\Documentos\DIO\DIO.Series.Gabriel\obj\Debug\net5.0\DIO.Series.Gabriel.pdb
+C:\Users\gabri\OneDrive\Documentos\DIO\DIO.Series.Gabriel\obj\Debug\net5.0\DIO.Series.Gabriel.genruntimeconfig.cache
